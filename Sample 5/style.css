@@ -1,0 +1,161 @@
+body{
+   background-color: black;
+}
+.nav-item{
+    font-family: DejaVu Sans Mono, monospace;
+    font-weight: bolder;
+    font-size: large;    
+}
+
+.nav-link{
+    border-bottom: 3px solid #343a40;
+}
+
+#link:hover{
+    color: orangered;
+    border-bottom: 3px solid orangered;
+    transition: 0.3s;
+}
+
+
+
+
+#icons li a{
+    color: white;
+    font-size: 22px;
+}
+
+#link1{
+    font-family: DejaVu Sans Mono, monospace;
+    font-weight: bolder;
+    font-size: large;    
+    color: white;
+}
+
+#link1:hover{
+    color: orangered;
+
+}
+
+#btn{
+    border: 2px solid orangered;
+    color: white;
+}
+
+#btn:hover{
+    background-color: orangered;
+}
+
+#ho{
+    cursor: pointer;
+    border-bottom: 3px solid black;
+}
+
+#ho:hover{
+    border-bottom: 3px solid orangered;
+    transition: 0.3s;
+}
+
+#btn2{
+    background-color: orangered;
+    color: white;
+}
+
+#sec1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+#pic1{
+    background-image: url(logo7.jpg);
+    height: 484px;
+    
+}
+
+#pic2{
+    background-image: url(logo8.jpg);
+    height: 484px;
+}
+
+#pic3{
+    background-image: url(logo10.jpg);
+    height: 484px;
+}
+
+#pic4{
+    background-image: url(logo9.jpg);
+    height: 484px;
+}
+
+#pic1:hover, #pic2:hover, #pic3:hover, #pic4:hover{
+    border-bottom: 3px solid orangered;
+    cursor: pointer;
+}
+
+#pic5{
+    background-image: url(logo11.jpg);
+    height: 950px;
+}
+
+
+#pic6{
+    background-image: url(logo12.jpg);
+ }
+
+ #pic7{
+     background-image: url(logo13.jpg);
+ }
+
+ #sec2{
+   
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+#btn1{
+    border: 2px solid white;
+    color: white;
+}
+
+#btn1:hover{
+    background-color: white;
+    color: orange;
+}
+
+#icons1{
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#icons1 i:hover{
+    color: orangered;
+}
+
+#l3{
+    list-style: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#icon4{
+    color: orangered;
+    font-size: 28px;
+}
+
+#para{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
